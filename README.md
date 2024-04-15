@@ -2,7 +2,7 @@
 
 End To End Machine Learning Project
 
-#Software and Hardware requirement
+#Software requirement
 
 1)Github account
 2)VS code
